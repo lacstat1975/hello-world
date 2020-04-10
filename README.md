@@ -1,2 +1,4 @@
 # hello-world
-Git-Hub Welcome
+
+¡Hola a todos!
+Este texto forma parte del aprendizaje de uso de GitHub
